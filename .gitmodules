@@ -11,3 +11,6 @@
 	path = pp/maniapp-osu-tools
 	url = git@zxq.co:ripple/maniapp-osu-tools.git
 	branch = calc-no-replay
+[submodule "secret"]
+	path = secret
+	url = https://github.com/osufx/secret.git
