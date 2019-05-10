@@ -10,3 +10,6 @@
 [submodule "maniapp-osu-tools"]
 	path = maniapp-osu-tools
 	url = https://zxq.co/ripple/ManiaStarReducer.git
+[submodule "common"]
+	path = common
+	url = https://github.com/osuripple/ripple-python-common.git
